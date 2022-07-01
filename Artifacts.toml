@@ -1,0 +1,9 @@
+[[SSGraphBLASBC]]
+arch = "x86_64"
+git-tree-sha1 = "80bcf65f8d6038028a189456f382d56d8947b9f4"
+libc = "glibc"
+os = "linux"
+
+    [[SSGraphBLASBC.download]]
+    sha256 = "2d45ba360dc281a9d3728784978176f4b7a2debcf1fb5f2bfb5ef5f9f8edcd55"
+    url = "https://github.com/Wimmerer/SSGraphBLASBC_jll.jl/releases/download/SSGraphBLASBC-v7.1.0+0/SSGraphBLASBC.v7.1.0.x86_64-linux-gnu.tar.gz"
